@@ -48,10 +48,10 @@ const beers = {
             sub: "Fuller's",
             text: "Old Ale"
         },
-        {
-            title: "All the Leaves are Brown",
-            sub: "Tempest Brewing Company",
-            text: "Brown Ale - American"
-        },
+        // {
+        //     title: "All the Leaves are Brown",
+        //     sub: "Tempest Brewing Company",
+        //     text: "Brown Ale - American"
+        // },
     ]
 }
